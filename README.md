@@ -25,3 +25,5 @@ Y todo es personalizable, los tamaños, los movimientos, todo. Quizas no hace fa
 Hay variables globales tanto en CSS como en JavaScript, son muy similares.
 
 A futuro, me gustaría sacarle el CSS y dejar solo JavaScript para poder usar las mismas variables globales, pero por ahora está funcional a lo que necesito.
+
+También me gustaría agregarle un Loading... hasta que se carguen los resultados previos.
